@@ -28,24 +28,31 @@ const Header = () => {
           >
             ÚLTIMA OPORTUNIDAD
           </Link>
-          <Link href="#" className="hover:text-orange-400">
-            HOTELES
+
+          <Link href="/hoteles/hotel" className="hover:text-orange-400">
+             HOTELES
           </Link>
+
           <Link href="#" className="hover:text-orange-400">
             PAQUETES
           </Link>
+
           <Link href="#" className="hover:text-orange-400">
             PROMOCIONES
           </Link>
+
           <Link href="#" className="hover:text-orange-400">
             ORGANIZA TU EVENTO
           </Link>
+
           <Link href="#" className="">
             ES
           </Link>
+
           <Link href="tel:+51012009200" className="hover:underline">
             (+51) 01 200 9200
           </Link>
+
           <Link href="#" className="hover:underline">
             Agencias/Empresas
           </Link>
