@@ -3,8 +3,9 @@ import Link from "next/link";
 import Image from "next/image";
 
 const Footer = () => {
+  console.log('Footer renderizado');
   return (
-    <footer className="bg-gray-100 text-gray-700">
+    <footer className="bg-gray-100 text-gray-700" id="main-footer">
       <div className="container mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-4 gap-6">
         {/* Column 1 */}
         <div>

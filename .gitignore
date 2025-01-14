@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /strapi-costa
+/costa-strapi
 /.pnp
 .pnp.*
 .yarn/*
