@@ -1,7 +1,7 @@
 "use client";
 
 import { useParams } from "next/navigation";
-import useStrapiData from "../components/StrapiConex";
+import useStrapiData from "../../global/StrapiConex";
 import DatosHotel from "../components/DatosHotel";
 
 export default function HotelPage() {
